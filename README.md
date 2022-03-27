@@ -15,13 +15,14 @@
   <a href="https://www.linkedin.com/in/divijaswetha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
+  <a href="https://medium.com/@divijaswetha">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
   <a href="https://twitter.com/Divija_Swetha">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ### Github Stats :point_down:
 <!-- ### :fire: My Stats : -->
   <div>
@@ -54,23 +55,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<!-- https://komarev.com/ghpvc/?username=divija-swetha -->
-
-
-<!-- <a >
-  <img src="https://github-readme-stats.vercel.app/api?username=divja-swetha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Divi's github stats"/>
-<!--   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svshivapuja&theme=dracula&count_private=true"/> -->
-</a> -->
-
-<!---
-### Wakatime Week Stats :alarm_clock: ..
-
-<a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?/username=svshivapuja&theme=dracula"/>
-</a>
--->
-
 
 <!--
 **divija-swetha/divija-swetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
