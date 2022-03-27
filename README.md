@@ -26,6 +26,12 @@
   </a>
 </div>
 
+ ## About me:
+- 🔭 I’m currently working on Reinforcement Learning and Blockchain
+- 🌱 I’m currently learning Business Analytics
+- 👯 I’m looking to collaborate on Deep Learning, Blockchain, and Wireless Communication
+
+
 ### Github Stats :point_down:
 <!-- ### :fire: My Stats : -->
   <div>
@@ -64,9 +70,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Reinforcement Learning and Blockchain
-- 🌱 I’m currently learning Business Analytics
-- 👯 I’m looking to collaborate on Deep Learning, Blockchain, and Wireless Communication
+
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
