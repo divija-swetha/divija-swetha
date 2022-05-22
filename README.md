@@ -1,6 +1,6 @@
 ### Hi!
 
-### I'm [Divija Swetha Gadiraju](https://github.com/divija-swetha).
+<!-- ### I'm [Divija Swetha Gadiraju](https://github.com/divija-swetha). -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100" height="100">
