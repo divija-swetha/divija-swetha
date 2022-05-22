@@ -11,7 +11,7 @@
 <!-- [![Linkedin: Divija](https://img.shields.io/badge/LinkedIn-Sravya%20vardhani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/svshivapuja/)](https://www.linkedin.com/in/divijaswetha/) -->
 <!--- --->
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/divijaswetha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,7 +24,7 @@
   <a href="https://twitter.com/Divija_Swetha">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 
  ## About me:
 - 🔭 I’m currently working on Reinforcement Learning and Blockchain
